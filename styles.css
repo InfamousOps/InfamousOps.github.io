@@ -1,0 +1,12 @@
+h1 {
+    color: blue;
+    text-align: center;
+  }
+  ul {
+    color: limegreen;
+    text-align: center;
+    list-style: inside;
+  }
+  body{
+      background-color: navajowhite;
+  }
